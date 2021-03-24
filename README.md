@@ -4,9 +4,9 @@
 
 <h2> Sobre Mim. 😄</h2>
   <ul> 
+    <li>📚 Estudante De Sistemas para Internet - ( UNIESP ) </li>
     <li>💼 Freelancer</li>
     <li>💡 Front-End Developer</li>
-    <li>📚 Estudante De Ciências da Computação - ( FPB ) </li>
   </ul>
  
   <h2> Atuações e Interesses. 🤔</h2>
@@ -23,11 +23,11 @@
   
   <h2> Contato. 📢</h2> 
   
-  <a target="_blank" href="mailto:diibarbosa22@gmail.com.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
-<a target="_blank" href="https://www.linkedin.com/in/diogobarbosa22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ShieldLinkd"/> </a>
+  <a target="_blank" href="eduardojpsena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
+<a target="_blank" href="https://www.linkedin.com/in/eduardo-sena-1b1a02163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ShieldLinkd"/> </a>
   
 <!--
-**FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eduardojpsena/EduardoSenaReadme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
