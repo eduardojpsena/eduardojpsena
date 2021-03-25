@@ -14,6 +14,13 @@
     <li>🔭 Estou procurando estágio como desenvolvedor backend </li>
    </ul>
   
+  <h2> Linguagens e Ferramentas </h2>
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-43853D?style=for-the-badge&logo=spring&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=orange)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  
   <h2> Estatísticas. ⭐</h2>
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojpsena&theme=merko&show_icons=truee&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/eduardojpsena) 
